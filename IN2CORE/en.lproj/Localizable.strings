@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  IN2CORE
+
+  Created by Lukas Budac on 13/05/2023.
+  
+*/
+
+"main.header" = "Videos";
+"error.invalid_url" = "Invalid URL";
+"error.video_not_supported" = "Video is not supported";
+"error.load_videos" = "Error loading videos";
+"error.unkown" = "Unknown error appeared";
